@@ -48,3 +48,13 @@ design principles.
 ```text
 Person → Student
 Person → DormStaff
+## 👩‍💻👨‍💻 Authors
+
+- **Yasemin Yavuz**  
+  Computer Engineering Student  
+  GitHub: https://github.com/yaaseminyavuz  
+
+- **Berra Nur Demircioğlu**  
+  Computer Engineering Student  
+  Contributor 
+
